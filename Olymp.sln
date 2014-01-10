@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TC_CSharp", "CSharp\TC_CSharp.csproj", "{16AB0212-8CBE-454D-B1D1-637A64F2B0BF}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cpp", "CSharp\Cpp\Cpp.vcxproj", "{FFC7ECA1-A545-48E2-96F5-8AC09D29C45D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TC_Cpp", "CSharp\Cpp\Cpp.vcxproj", "{FFC7ECA1-A545-48E2-96F5-8AC09D29C45D}"
 EndProject
 Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Mixed Platforms = Debug|Mixed Platforms
 		Debug|Win32 = Debug|Win32
