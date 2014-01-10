@@ -40,6 +40,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TC_CSharpSolutions", "TC_CS
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TC_CppSolutions", "TC_CppSolutions", "{64E9CC1D-723E-4BAE-B72C-4BCF1CA00EAA}"
+	ProjectSection(SolutionItems) = preProject
+		CSharp\TheBrickTowerMediumDivTwo.cpp = CSharp\TheBrickTowerMediumDivTwo.cpp
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SubversionScc) = preSolution
