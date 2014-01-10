@@ -5,6 +5,42 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TC_CSharp", "CSharp\TC_CSha
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TC_Cpp", "CSharp\Cpp\Cpp.vcxproj", "{FFC7ECA1-A545-48E2-96F5-8AC09D29C45D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TC_CSharpSolutions", "TC_CSharpSolutions", "{7CDD8275-904C-427B-A234-A76CCD87B3A2}"
+	ProjectSection(SolutionItems) = preProject
+		CSharp\AstronomicalRecordsEasy.cs = CSharp\AstronomicalRecordsEasy.cs
+		CSharp\BigFatInteger.cs = CSharp\BigFatInteger.cs
+		CSharp\BigFatInteger2.cs = CSharp\BigFatInteger2.cs
+		CSharp\BinPackingEasy.cs = CSharp\BinPackingEasy.cs
+		CSharp\EllysFigurines.cs = CSharp\EllysFigurines.cs
+		CSharp\EllysPairs.cs = CSharp\EllysPairs.cs
+		CSharp\EllysReversals.cs = CSharp\EllysReversals.cs
+		CSharp\ErasingCharacters.cs = CSharp\ErasingCharacters.cs
+		CSharp\FoxAndClassroom.cs = CSharp\FoxAndClassroom.cs
+		CSharp\FoxAndFencingEasy.cs = CSharp\FoxAndFencingEasy.cs
+		CSharp\HouseBuilding.cs = CSharp\HouseBuilding.cs
+		CSharp\IncrementAndDoubling.cs = CSharp\IncrementAndDoubling.cs
+		CSharp\KnightCircuit2.cs = CSharp\KnightCircuit2.cs
+		CSharp\LittleElephantAndBalls.cs = CSharp\LittleElephantAndBalls.cs
+		CSharp\LittleElephantAndDouble.cs = CSharp\LittleElephantAndDouble.cs
+		CSharp\LittleElephantAndString.cs = CSharp\LittleElephantAndString.cs
+		CSharp\MayTheBestPetWin.cs = CSharp\MayTheBestPetWin.cs
+		CSharp\MiniatureDachshund.cs = CSharp\MiniatureDachshund.cs
+		CSharp\PastingPaintingDivOne.cs = CSharp\PastingPaintingDivOne.cs
+		CSharp\RaiseThisBarn.cs = CSharp\RaiseThisBarn.cs
+		CSharp\RandomOption.cs = CSharp\RandomOption.cs
+		CSharp\SimilarNames2.cs = CSharp\SimilarNames2.cs
+		CSharp\TheBrickTowerEasyDivTwo.cs = CSharp\TheBrickTowerEasyDivTwo.cs
+		CSharp\TheNumberGameDivTwo.cs = CSharp\TheNumberGameDivTwo.cs
+		CSharp\TheOlympiadInInformatics.cs = CSharp\TheOlympiadInInformatics.cs
+		CSharp\TheSquareRootDilemma.cs = CSharp\TheSquareRootDilemma.cs
+		CSharp\TheSwapsDivTwo.cs = CSharp\TheSwapsDivTwo.cs
+		CSharp\TheTilesDivTwo.cs = CSharp\TheTilesDivTwo.cs
+		CSharp\WolfDelaymaster.cs = CSharp\WolfDelaymaster.cs
+		CSharp\XorBoardDivTwo.cs = CSharp\XorBoardDivTwo.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TC_CppSolutions", "TC_CppSolutions", "{64E9CC1D-723E-4BAE-B72C-4BCF1CA00EAA}"
+EndProject
 Global
 	GlobalSection(SubversionScc) = preSolution
 		Svn-Managed = True
