@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\TheBrickTowerMediumDivTwo.cpp">
+    <ClCompile Include="..\AlienAndGame.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -41,7 +41,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TC_CSharpSolutions", "TC_CS
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TC_CppSolutions", "TC_CppSolutions", "{64E9CC1D-723E-4BAE-B72C-4BCF1CA00EAA}"
 	ProjectSection(SolutionItems) = preProject
+		CSharp\AlienAndGame.cpp = CSharp\AlienAndGame.cpp
 		CSharp\TheBrickTowerMediumDivTwo.cpp = CSharp\TheBrickTowerMediumDivTwo.cpp
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E3D3E0A3-D3D1-4122-9653-C47CD07D3DFC}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
 	EndProjectSection
 EndProject
 Global
@@ -69,6 +75,7 @@ Global
 		{16AB0212-8CBE-454D-B1D1-637A64F2B0BF}.Release|x86.ActiveCfg = Release|x86
 		{16AB0212-8CBE-454D-B1D1-637A64F2B0BF}.Release|x86.Build.0 = Release|x86
 		{FFC7ECA1-A545-48E2-96F5-8AC09D29C45D}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{FFC7ECA1-A545-48E2-96F5-8AC09D29C45D}.Debug|Mixed Platforms.Build.0 = Debug|Win32
 		{FFC7ECA1-A545-48E2-96F5-8AC09D29C45D}.Debug|Win32.ActiveCfg = Debug|Win32
 		{FFC7ECA1-A545-48E2-96F5-8AC09D29C45D}.Debug|Win32.Build.0 = Debug|Win32
 		{FFC7ECA1-A545-48E2-96F5-8AC09D29C45D}.Debug|x86.ActiveCfg = Debug|Win32
