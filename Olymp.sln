@@ -52,6 +52,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mccme", "mccme\mccme.vcxproj", "{BE3DB5C7-B0DA-482D-8E8F-F29EE8BFFB3F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "mccme_solutions", "mccme_solutions", "{64E076DF-CBCC-4AF7-AC40-BB627AD96A38}"
+	ProjectSection(SolutionItems) = preProject
+		mccme\32.cpp = mccme\32.cpp
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SubversionScc) = preSolution
 		Svn-Managed = True
@@ -86,6 +93,18 @@ Global
 		{FFC7ECA1-A545-48E2-96F5-8AC09D29C45D}.Release|Win32.ActiveCfg = Release|Win32
 		{FFC7ECA1-A545-48E2-96F5-8AC09D29C45D}.Release|Win32.Build.0 = Release|Win32
 		{FFC7ECA1-A545-48E2-96F5-8AC09D29C45D}.Release|x86.ActiveCfg = Release|Win32
+		{BE3DB5C7-B0DA-482D-8E8F-F29EE8BFFB3F}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{BE3DB5C7-B0DA-482D-8E8F-F29EE8BFFB3F}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{BE3DB5C7-B0DA-482D-8E8F-F29EE8BFFB3F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BE3DB5C7-B0DA-482D-8E8F-F29EE8BFFB3F}.Debug|Win32.Build.0 = Debug|Win32
+		{BE3DB5C7-B0DA-482D-8E8F-F29EE8BFFB3F}.Debug|x86.ActiveCfg = Debug|Win32
+		{BE3DB5C7-B0DA-482D-8E8F-F29EE8BFFB3F}.Debug|x86.Build.0 = Debug|Win32
+		{BE3DB5C7-B0DA-482D-8E8F-F29EE8BFFB3F}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{BE3DB5C7-B0DA-482D-8E8F-F29EE8BFFB3F}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{BE3DB5C7-B0DA-482D-8E8F-F29EE8BFFB3F}.Release|Win32.ActiveCfg = Release|Win32
+		{BE3DB5C7-B0DA-482D-8E8F-F29EE8BFFB3F}.Release|Win32.Build.0 = Release|Win32
+		{BE3DB5C7-B0DA-482D-8E8F-F29EE8BFFB3F}.Release|x86.ActiveCfg = Release|Win32
+		{BE3DB5C7-B0DA-482D-8E8F-F29EE8BFFB3F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
