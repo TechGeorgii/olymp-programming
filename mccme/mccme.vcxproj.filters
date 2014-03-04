@@ -5,6 +5,6 @@
     <Text Include="output.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="acmp_555.cpp" />
+    <ClCompile Include="acmp_372_2.cpp" />
   </ItemGroup>
 </Project>
