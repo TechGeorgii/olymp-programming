@@ -61,9 +61,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "mccme_solutions", "mccme_so
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "acmp_solutions", "acmp_solutions", "{BB1BD81F-B98B-4F64-900E-7A3942308735}"
 	ProjectSection(SolutionItems) = preProject
+		mccme\acmp_114.cpp = mccme\acmp_114.cpp
+		mccme\acmp_121.cpp = mccme\acmp_121.cpp
 		mccme\acmp_154.cpp = mccme\acmp_154.cpp
+		mccme\acmp_183.cpp = mccme\acmp_183.cpp
+		mccme\acmp_186.cpp = mccme\acmp_186.cpp
+		mccme\acmp_329.cpp = mccme\acmp_329.cpp
 		mccme\acmp_366.cpp = mccme\acmp_366.cpp
 		mccme\acmp_372.cpp = mccme\acmp_372.cpp
+		mccme\acmp_372_2.cpp = mccme\acmp_372_2.cpp
+		mccme\acmp_500.cpp = mccme\acmp_500.cpp
+		mccme\acmp_544.cpp = mccme\acmp_544.cpp
 		mccme\acmp_555.cpp = mccme\acmp_555.cpp
 		mccme\acmp_71.cpp = mccme\acmp_71.cpp
 	EndProjectSection
