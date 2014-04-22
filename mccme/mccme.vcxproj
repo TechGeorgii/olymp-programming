@@ -14,7 +14,7 @@
     <ProjectGuid>{BE3DB5C7-B0DA-482D-8E8F-F29EE8BFFB3F}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>mccme</RootNamespace>
-    <ProjectName>mccme_acmp</ProjectName>
+    <ProjectName>CPP</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -83,7 +83,10 @@
     <Text Include="output.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="acmp_214.cpp" />
+    <ClCompile Include="GCJ2014_qual_D.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D-small-attempt0.in" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

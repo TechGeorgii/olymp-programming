@@ -5,6 +5,9 @@
     <Text Include="output.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="acmp_214.cpp" />
+    <ClCompile Include="GCJ2014_qual_D.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D-small-attempt0.in" />
   </ItemGroup>
 </Project>
